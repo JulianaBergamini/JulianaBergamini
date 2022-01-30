@@ -1,4 +1,4 @@
-<p style="font-family:verdana"><h2 align="center">Hi, I'm Juliana!</h2></p>
+<p style="font-family:Courier New"><h2 align="center">Hi, I'm Juliana!</h2></p>
 <h3 align="center">A passionated aspiring data scientist</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
