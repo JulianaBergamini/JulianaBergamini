@@ -1,7 +1,7 @@
 <h4 align="center">Hi, I'm Juliana ✨</h4>
 <h6 align="center">A passionated aspiring data scientist 💻</h6>
 <div align="center">
-  <img src="https://media3.giphy.com/media/wpoLqr5FT1sY0/giphy.gif?cid=ecf05e47xrp6p4p5qbi6ykf6bzwqyf8lcocgbg1dcaanjtfx&rid=giphy.gif&ct=g" width="40" height="50 " />
+  <img src="https://media3.giphy.com/media/wpoLqr5FT1sY0/giphy.gif?cid=ecf05e47xrp6p4p5qbi6ykf6bzwqyf8lcocgbg1dcaanjtfx&rid=giphy.gif&ct=g" width="200" />
 </div>
 <h6 align="center"> 📍 Brazil | 22 | she/her | ENG/PT-BR/ESP/FR </h6>
 
