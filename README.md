@@ -1,6 +1,6 @@
 <h4 align="center">Hi, I'm Juliana ✨</h4>
 <h6 align="center">A passionated aspiring data scientist 💻</h6>
-<h6 align="center"> Brazil | 22 | she/her | ENG/PT-BR/ESP/FR </h6>
+<h6 align="center"> 📍 Brazil | 22 | she/her | ENG/PT-BR/ESP/FR </h6>
 
 
 <h4 align="center">Connect with me:</h4>
