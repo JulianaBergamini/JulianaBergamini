@@ -1,11 +1,9 @@
-<h4 align="center">Hi, I'm Juliana ✨</h4>
+<h4 align="center">Hi, I'm Juliana 🌱 </h4>
 <h6 align="center">A passionated aspiring data scientist 💻</h6>
 <h6 align="center"> 📍 Brazil | 22 | she/her | ENG/PT-BR/ESP/FR </h6>
 
-<h6 align="center"><b> 💻 Currently studying:</b></h6>
-💻 AWS Cloud Practitioner Essentials
-💻 Python3
-💻 Pandas/Seaborn/Jupyter/Numpy
+<h6 align="center"><b> 💻 Currently studying 💻</b></h6>
+<h6 align="center"> AWS Cloud Practitioner Essentials | Python3 | Pandas/Seaborn/Jupyter/Numpy</h6>
 <div align="center">
   <img src="https://media1.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=ecf05e470s7no2xpowriei8x92l8lb8pq3ye2pj8ffyu7e8u&rid=giphy.gif&ct=g" width="300" />
 </div>
